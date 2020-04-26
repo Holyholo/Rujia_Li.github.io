@@ -11,6 +11,6 @@
 1. Calibration 
 2. Calibration
 
-![test](https://holyholo.github.com/images/47108D5E-5DF1-4EB3-BFD5-E1E928F625E7.jpeg)
+![test](https://github.com/Holyholo/holyholo.github.io/blob/master/47108D5E-5DF1-4EB3-BFD5-E1E928F625E7.jpeg)
 
 
